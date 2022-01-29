@@ -76,7 +76,7 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #fff;
+  background-color: #001233;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -84,13 +84,18 @@ hr {
   font-family: "Raleway", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: #333;
+  color: #fdfffc;
   text-transform: uppercase;
 }
+
+#menu.navbar-default .parteTexto {
+  color: #00b4d8;
+}
+
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #555;
+  color: rgb(238, 235, 235);
   font-size: 15px;
   font-weight: 400;
   padding: 8px 2px;
@@ -166,7 +171,7 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
+  background-color: #00b4d8;
   background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
@@ -246,13 +251,26 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-  background: #f6f6f6;
+  background: #293241;
 }
+
+#features p{
+  color: #e7e1e1;
+}
+
+#features h3{
+  color: #4cc9f0;
+}
+
+#features h2{
+  color: #cae9ff;
+}
+
 #features i.fa {
   font-size: 38px;
   margin-bottom: 20px;
   transition: all 0.5s;
-  color: #fff;
+  color: #cae9ff;
   width: 100px;
   height: 100px;
   padding: 30px 0;
@@ -263,11 +281,28 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 100px 0;
+  background-color: #293241;
 }
 #about h3 {
   font-size: 22px;
   margin: 0 0 20px;
+  color: #e7e1e1;
 }
+
+#about li {
+  color: #d8cfcf;
+}
+
+
+#about h2 {
+  color: #e7e1e1;
+}
+
+#about p{
+  color: #d8cfcf;
+}
+
+
 #about h2 {
   position: relative;
   margin-bottom: 15px;
@@ -316,7 +351,7 @@ header .intro-text {
 #services .service-desc {
   margin: 10px 10px 20px;
 }
-#services h2 {
+#services h2{
   color: #fff;
 }
 #services .section-title h2::after {
@@ -353,7 +388,18 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
+  background-color: #293241;
 }
+/* d8cfcf */
+#portfolio h2 {
+  color: #f0e7e7;
+}
+
+#portfolio p {
+  color: #d8cfcf;
+}
+
+
 .portfolio-item {
   margin: 1px -15px 0 -14px;
   padding: 0;
@@ -402,8 +448,17 @@ header .intro-text {
 /* Testimonials Section */
 #testimonials {
   padding: 100px 0;
-  background: #f6f6f6;
+  background: #293241;
 }
+
+#testimonials h2 {
+  color: #f1ebeb;
+}
+
+#testimonials p {
+  color: #e0d9d9;
+}
+
 #testimonials i {
   color: #e6e6e6;
   font-size: 32px;
@@ -437,12 +492,26 @@ header .intro-text {
   margin-top: 10px;
   font-size: 15px;
   font-weight: 600;
-  color: #666;
+  color: rgb(64, 179, 224);
 }
 /* Team Section */
 #team {
   padding: 100px 0;
+  background-color: #293241;
 }
+
+#team h2{
+  color: #e9eef1;
+}
+
+#team h4{
+  color: #e9eef1;
+}
+
+#team p {
+  color: #d3d8db;
+}
+
 #team h4 {
   margin: 5px 0;
 }
@@ -585,11 +654,11 @@ label {
 }
 /* Footer Section*/
 #footer {
-  background: #f6f6f6;
+  background: #293241;
   padding: 30px 0;
 }
 #footer p {
-  color: #888;
+  color: #fff;
   font-size: 14px;
 }
 #footer a {
