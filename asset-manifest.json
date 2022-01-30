@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hackerway-studio/static/css/main.83b5dced.chunk.css",
-    "main.js": "/hackerway-studio/static/js/main.a1d8ef9b.chunk.js",
+    "main.css": "/static/css/main.83b5dced.chunk.css",
+    "main.js": "/static/js/main.a1d8ef9b.chunk.js",
     "main.js.map": "/static/js/main.a1d8ef9b.chunk.js.map",
-    "runtime-main.js": "/hackerway-studio/static/js/runtime-main.722b060e.js",
-    "runtime-main.js.map": "/hackerway-studio/static/js/runtime-main.722b060e.js.map",
-    "static/js/2.af7970f8.chunk.js": "/hackerway-studio/static/js/2.af7970f8.chunk.js",
-    "static/js/2.af7970f8.chunk.js.map": "/hackerway-studio/static/js/2.af7970f8.chunk.js.map",
-    "index.html": "/hackerway.studio/index.html",
-    "static/css/main.83b5dced.chunk.css.map": "/hackerway-studio/static/css/main.83b5dced.chunk.css.map",
-    "static/js/2.af7970f8.chunk.js.LICENSE.txt": "/hackerway-studio/static/js/2.af7970f8.chunk.js.LICENSE.txt"
+    "runtime-main.js": "/static/js/runtime-main.722b060e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.722b060e.js.map",
+    "static/js/2.af7970f8.chunk.js": "/static/js/2.af7970f8.chunk.js",
+    "static/js/2.af7970f8.chunk.js.map": "/static/js/2.af7970f8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.af7970f8.chunk.js.LICENSE.txt": "/static/js/2.af7970f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "/hackerway-studio/static/js/runtime-main.722b060e.js",
-    "/hackerway-studio/static/js/2.af7970f8.chunk.js",
-    "/hackerway-studio/static/css/main.83b5dced.chunk.css",
-    "/hackerway-studio/static/js/main.a1d8ef9b.chunk.js"
+    "/static/js/runtime-main.722b060e.js",
+    "/static/js/2.af7970f8.chunk.js",
+    "/static/css/main.83b5dced.chunk.css",
+    "/static/js/main.a1d8ef9b.chunk.js"
   ]
 }
